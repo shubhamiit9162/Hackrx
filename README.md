@@ -2,9 +2,9 @@
 
 
 
-❓ ***Let me know on telegram if you guys want this project to be deployed with Docker and Kubernetes***
 
-<img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="1100" height="300" />
+
+<img src="/images/your-image-name.png" alt="Machine Learning in Healthcare" />
 <p>  major project of my undergraduate degree program.</p>
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
