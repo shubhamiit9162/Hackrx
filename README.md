@@ -1,4 +1,4 @@
-# ML-MT-WebApp
+# hackrx_WebApp
 
 ## On request from many of you I have created a telegram chennal where your guys can post your questions and then we can have discussions there about improving this project bit further and further help you guys can get.
 ### Channel link : https://t.me/mymlmt
