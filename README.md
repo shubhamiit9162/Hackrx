@@ -4,7 +4,8 @@
 
 
 
-<img src="/images/your-image-name.png" alt="Machine Learning in Healthcare" />
+![Machine Learning in Healthcare](https://your-online-url-to-image.com/image.png)
+
 <p>  major project of my undergraduate degree program.</p>
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
