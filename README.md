@@ -4,7 +4,7 @@
 
 
 
-![Machine Learning in Healthcare](https://raw.githubusercontent.com/username/repository/branch/path/to/image.png)
+![Machine Learning in Healthcare]
 
 
 <p>  major project of my undergraduate degree program.</p>
